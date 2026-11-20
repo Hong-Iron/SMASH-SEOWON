@@ -1,0 +1,34 @@
+{
+ "region": "충북 청주시 서원구 석교동",
+ "nameEn": "Seowon University",
+ "added": "2026-10-27T21:00",
+ "rank": 143,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CJNUE",
+   "campus": "청주교육대학교",
+   "km": 1.0
+  },
+  {
+   "code": "CBNU",
+   "campus": "충북대학교 개신캠퍼스",
+   "km": 2.3
+  },
+  {
+   "code": "CJU",
+   "campus": "청주대학교",
+   "km": 3.6
+  },
+  {
+   "code": "CHUNGCHEONG",
+   "campus": "충청대학교",
+   "km": 10.2
+  },
+  {
+   "code": "CHSU",
+   "campus": "충북보건과학대학교",
+   "km": 10.6
+  }
+ ]
+}
